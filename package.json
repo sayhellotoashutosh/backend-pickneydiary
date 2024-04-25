@@ -1,0 +1,15 @@
+{
+  "name": "pickneydiary-backend",
+  "version": "1.0.0",
+  "description": "PickneyDiary - It is a personel logger for subscribers.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ashutosh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongoose": "^8.3.2"
+  }
+}
